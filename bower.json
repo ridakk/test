@@ -1,23 +1,9 @@
 {
   "name": "test",
-  "description": "private bower test package",
-  "main": [
-  ],
-  "dependencies": {
-  },
-  "devDependencies": {
-  },
-  "moduleType": [
-  ],
-  "keywords": [
-  ],
-  "authors": [
-  ],
+  "version": "0.0.0",
   "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components"
-  ],
-  "private": true
+  "main": "./test.js",
+  "ignore": [],
+  "dependencies": {
+  }
 }
